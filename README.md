@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <a href="https://akmalhazriq.vercel.app">
+  <a href="https://akmalhazriq.my">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="100" alt="instagram logo"  />
   </a>
   <a href="https://instagram.com/ahazriq7872">
